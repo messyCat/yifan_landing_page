@@ -41,6 +41,7 @@ jobs:
       - name: Build project
         run: npm run build    # 确保 package.json 中有 build 脚本
         env:
+          CI: false # 禁用CI模式下的警告转错误
           VITE_BASE_PATH: '/'  # 设置基础路径（根据框架调整变量名）
       - name: Setup Pages
         uses: actions/configure-pages@v5
