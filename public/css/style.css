@@ -239,11 +239,6 @@ a:focus,
   margin: 0 auto;
   margin-bottom: 60px;
 }
-header .intro-text {
-  padding-top: 350px;
-  padding-bottom: 200px;
-  text-align: center;
-}
 /* Features Section */
 #features {
   background: #f6f6f6;
