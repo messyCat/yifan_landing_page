@@ -1,7 +1,9 @@
 import React from "react";
 import "./header.css";
+import { useTranslation } from 'react-i18next';
 
 export const Header = (props) => {
+  const { t } = useTranslation()
   return (
     <header id="header">
       <div className="intro">
@@ -11,7 +13,9 @@ export const Header = (props) => {
               {/* Slogan 区域开始 */}
               <div className="header-slogan">
                 {/* <div className="header-slogan-title">使命</div> */}
-                <div className="header-slogan-main">译路同行，未来有你。</div>
+                <div className="header-slogan-main">{
+                  props.data ? props.data.slogan : "Loading"
+                }</div>
               </div>
               {/* Slogan 区域结束 */}
               <div className="col-md-8 col-md-offset-2 intro-text">

@@ -4,7 +4,7 @@ import "./App.css";
 import { Navigation } from "./components/navigation";
 
 import Home from "./pages/home";
-import About from "./pages/about";
+// import About from "./pages/about";
 
 
 const App = () => {
@@ -13,7 +13,7 @@ const App = () => {
       <Navigation />
       <Router>
         <Switch>
-          <Route path="/about" component={About} />
+          {/* <Route path="/about" component={About} /> */}
           <Route path="*" component={Home} />
 
         </Switch>
