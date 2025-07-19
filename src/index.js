@@ -6,6 +6,7 @@ import { I18nextProvider } from 'react-i18next';
 import i18next from 'i18next';
 import enTranslation from './locales/en.json';
 import zhTranslation from './locales/zh.json';
+import '@fortawesome/fontawesome-free/css/all.min.css';
 
 // import * as serviceWorker from './serviceWorker';
 

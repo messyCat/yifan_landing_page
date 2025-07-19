@@ -26,11 +26,11 @@ const Home = () => {
         <div>
             <Header data={landingPageData.Header} />
             <Features data={landingPageData.Features} />
-            <About data={landingPageData.About} />
+            { /* <About data={landingPageData.About} /> */}
             <Services data={landingPageData.Services} />
-            <Gallery data={landingPageData.Gallery} />
-            <Testimonials data={landingPageData.Testimonials} />
-            <Team data={landingPageData.Team} />
+            {/* <Gallery data={landingPageData.Gallery} /> */}
+            {/* <Testimonials data={landingPageData.Testimonials} /> */}
+            {/* <Team data={landingPageData.Team} /> */}
             <Contact data={landingPageData.Contact} />
         </div>
     );
