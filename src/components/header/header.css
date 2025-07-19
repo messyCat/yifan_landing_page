@@ -1,0 +1,59 @@
+header .intro-text {
+  margin-top: 81px;
+  padding-top: 200px;
+  padding-bottom: 100px;
+  text-align: center;
+}
+
+
+.header-slogan {
+  position: absolute;
+  top: 60px;
+  left: 40px;
+  background: #fff;
+  border-radius: 0 0 60px 0;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+  padding: 32px 36px 28px 28px;
+  min-width: 260px;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.header-slogan-title {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 8px;
+  font-weight: 500;
+}
+
+.header-slogan-main {
+  font-size: 32px;
+  color: #222;
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+@media (max-width: 768px) {
+  .header-slogan {
+    position: relative;
+    top: 0;
+    left: 0;
+    margin: 0;
+    margin-top: -24px;
+    width: 100%;
+    max-width: none;
+    padding: 16px 12px 14px 16px;
+    border-radius: 0 0 24px 0;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+    align-items: flex-start;
+  }
+  .header-slogan-title {
+    font-size: 13px;
+    margin-bottom: 4px;
+  }
+  .header-slogan-main {
+    font-size: 18px;
+  }
+} 

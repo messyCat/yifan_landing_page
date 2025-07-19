@@ -1,4 +1,5 @@
 import React from "react";
+import { LanguageToggle } from "./languageToggle";
 
 export const Navigation = (props) => {
   return (
@@ -18,8 +19,8 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
-          </a>{" "}
+            北京译帆科技
+          </a>
         </div>
 
         <div
@@ -29,38 +30,24 @@ export const Navigation = (props) => {
           <ul className="nav navbar-nav navbar-right">
             <li>
               <a href="#features" className="page-scroll">
-                Features
-              </a>
-            </li>
-            <li>
-              <a href="#about" className="page-scroll">
-                About
+                主营业务
               </a>
             </li>
             <li>
               <a href="#services" className="page-scroll">
-                Services
-              </a>
-            </li>
-            <li>
-              <a href="#portfolio" className="page-scroll">
-                Gallery
-              </a>
-            </li>
-            <li>
-              <a href="#testimonials" className="page-scroll">
-                Testimonials
-              </a>
-            </li>
-            <li>
-              <a href="#team" className="page-scroll">
-                Team
+                业务专长
               </a>
             </li>
             <li>
               <a href="#contact" className="page-scroll">
-                Contact
+                联系我们
               </a>
+            </li>
+            <li style={{ position: 'relative' }}>
+              <LanguageToggle
+                currentLang={props.currentLang}
+                toggleLanguage={props.toggleLanguage}
+              />
             </li>
           </ul>
         </div>

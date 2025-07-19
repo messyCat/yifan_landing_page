@@ -3,7 +3,11 @@ import { useTranslation } from 'react-i18next';
 const About = () => {
     const { t } = useTranslation()
     return (
-        <div>{t('greeting')}</div>
+        <div
+        // style="width=100%;height:100%"
+        >
+            {t('greeting')}
+        </div>
     )
 }
 

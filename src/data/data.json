@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "Now it mine!",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "北京译帆科技信息咨询有限公司",
+    "paragraph": "我们是总部位于北京的专业语言服务供应商。我们秉承“专业、优质、高效”的理念，致力于为客户提供精准可靠的口笔译服务、深度专业的语言咨询以及高效精准的国际传播解决方案。"
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -162,13 +162,16 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "口译服务",
+      "text_list": ["提供专业会议、商务洽谈、陪同访问等场景的高质量口译支持。"]
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "笔译服务",
+      "text_list": [
+        "涵盖各类文件、合同、报告、证书等的精准书面翻译。",
+        "提供官方盖章服务，确保文件的法律效力与正式性。"
+      ]
     },
     {
       "icon": "fa fa-group",
