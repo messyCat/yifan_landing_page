@@ -37,7 +37,7 @@ jobs:
           node-version: '18'  # 推荐使用 LTS 版本
           cache: 'npm'
       - name: Install dependencies
-        run: npm ci          # 比 npm install 更快更可靠
+        run: npm i --legacy-peer-deps         # 比 npm install 更快更可靠
       - name: Build project
         run: npm run build    # 确保 package.json 中有 build 脚本
         env:
