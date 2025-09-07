@@ -1,0 +1,170 @@
+{
+  "Header": {
+    "title": "北京译帆科技信息咨询有限公司",
+    "paragraph": "我们是总部位于北京的专业语言服务供应商。我们秉承“专业、优质、高效”的理念，致力于为客户提供精准可靠的口笔译服务、深度专业的语言咨询以及高效精准的国际传播解决方案。"
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa-solid fa-database",
+      "name": "专业ESG/CSR术语库",
+      "text": "拥有多年积累、持续更新的专业ESG/CSR术语库，确保翻译的准确性、一致性与行业专业性"
+    },
+    {
+      "icon": "fa-solid fa-file",
+      "name": "丰富实战经验",
+      "text": "成功翻译了来自 MSCI、CFA协会、道琼斯可持续发展指数(DJSI)、CDP、香港交易所(HKEX) 等权威机构的大量评级方法论及相关文件"
+    },
+    {
+      "icon": "fa-solid fa-book",
+      "name": "累计翻译量",
+      "text": "在ESG/CSR领域累计翻译量 超过200万字，经验丰富可靠"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "北京市怀柔区开放路113号南四层409室",
+    "phone": "+86 15801109105",
+    "email": "fiona@yifanti.cn",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa-solid fa-comments",
+      "title": "口译服务",
+      "text_list": ["提供专业会议、商务洽谈、陪同访问等场景的高质量口译支持。"]
+    },
+    {
+      "icon": "fa-solid fa-pen-nib",
+      "title": "笔译服务",
+      "text_list": [
+        "涵盖各类文件、合同、报告、证书等的精准书面翻译。",
+        "提供官方盖章服务，确保文件的法律效力与正式性。"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-globe",
+      "title": "国际传播",
+      "text_list": [
+        "多语言社交媒体运营：助力企业精准触达全球目标受众。",
+        "专业多语言网站建设：打造符合目标市场文化的企业国际化门户"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "slogan": "The Partner for All, All for the Future.",
+    "title": "北京译帆科技信息咨询有限公司",
+    "paragraph": "我们是总部位于北京的专业语言服务供应商。我们秉承“专业、优质、高效”的理念，致力于为客户提供精准可靠的口笔译服务、深度专业的语言咨询以及高效精准的国际传播解决方案。"
+  },
+  "Services": [
+    {
+      "icon": "fa-solid fa-database",
+      "name": "专业ESG/CSR术语库",
+      "text": "拥有多年积累、持续更新的专业ESG/CSR术语库，确保翻译的准确性、一致性与行业专业性"
+    },
+    {
+      "icon": "fa-solid fa-file",
+      "name": "丰富实战经验",
+      "text": "成功翻译了来自 MSCI、CFA协会、道琼斯可持续发展指数(DJSI)、CDP、香港交易所(HKEX) 等权威机构的大量评级方法论及相关文件"
+    },
+    {
+      "icon": "fa-solid fa-book",
+      "name": "累计翻译量",
+      "text": "在ESG/CSR领域累计翻译量 超过200万字，经验丰富可靠"
+    }
+  ],
+  "Features": [
+    {
+      "icon": "fa-solid fa-comments",
+      "title": "口译服务",
+      "text_list": ["提供专业会议、商务洽谈、陪同访问等场景的高质量口译支持。"]
+    },
+    {
+      "icon": "fa-solid fa-pen-nib",
+      "title": "笔译服务",
+      "text_list": [
+        "涵盖各类文件、合同、报告、证书等的精准书面翻译。",
+        "提供官方盖章服务，确保文件的法律效力与正式性。"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-globe",
+      "title": "国际传播",
+      "text_list": [
+        "多语言社交媒体运营：助力企业精准触达全球目标受众。",
+        "专业多语言网站建设：打造符合目标市场文化的企业国际化门户"
+      ]
+    }
+  ],
+  "Contact": {
+    "title": "Contact Us",
+    "content": {
+      "address": "北京市怀柔区开放路113号南四层409室",
+      "phone": "+86 15801109105",
+      "email": "fiona@yifanti.cn"
+    }
+  }
+}
